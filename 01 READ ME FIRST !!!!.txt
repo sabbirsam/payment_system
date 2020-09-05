@@ -1,0 +1,5 @@
+>> LOGIN DETAILS <<
+Username: admin
+Password: admin
+
+db name paysystem
